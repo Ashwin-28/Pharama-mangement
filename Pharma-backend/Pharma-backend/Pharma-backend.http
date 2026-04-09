@@ -1,0 +1,6 @@
+@Pharma_backend_HostAddress = http://localhost:5029
+
+GET {{Pharma_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
